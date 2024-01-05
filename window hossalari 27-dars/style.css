@@ -1,0 +1,14 @@
+.box{
+    box-sizing: border-box;
+    width: 400px;
+    height: 450px;
+    overflow: scroll;
+    margin: 50px auto;
+    padding: 10px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    display: block;
+    margin: 20px auto;
+}
